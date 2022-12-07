@@ -1,0 +1,23 @@
+/*.lorem-text {
+  margin: 2rem;
+
+}*/
+
+.box1,
+.box2,
+.box3 {
+  width: 200px;
+  height: 200px;
+}
+
+.box1 {
+  background-color: red;
+}
+
+.box2 {
+  background-color: green;
+}
+
+.box3 {
+  background-color: blue;
+}
